@@ -21,7 +21,8 @@ export default {
 <style lang="stylus" scoped>
 .toolbar
   box-shadow 0 2px 4px -1px rgba(0,0,0,.2),0 4px 5px 0 rgba(0,0,0,.14),0 1px 10px 0 rgba(0,0,0,.12)
-  background $color-primary
+  background #e91e63 // prod bug. TODO fix
+  //background $color-primary
   color #fff
   border-radius 4px 4px 0 0
   display flex
