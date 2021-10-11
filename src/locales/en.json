@@ -1,0 +1,25 @@
+{
+  "sorting": {
+    "label": "Sorting",
+    "options": {
+      "id-asc": "By id asc",
+      "id-desc": "By id desc",
+      "age-asc": "By age asc",
+      "age-desc": "By age desc",
+      "name-asc": "By name asc",
+      "name-desc": "By name desc"
+    }
+  },
+  "search": {
+    "placeholder": "Search"
+  },
+  "list": {
+    "age": "years"
+  },
+  "toolbar": {
+    "view-mode": {
+      "table": "View mode - table",
+      "preview": "View mode - preview"
+    }
+  }
+}
